@@ -1,4 +1,4 @@
 # LBCubePagerPackage
 LBCubePagerPackage
 
-See more in [LBCubePagerFramework Repository](https://github.com/lioz12131415/LBCubePagerFramework)
+See more on [LBCubePagerFramework](https://github.com/lioz12131415/LBCubePagerFramework)
